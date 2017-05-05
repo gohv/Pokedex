@@ -8,6 +8,7 @@ public class Main {
         Pokedex pokedex = new Pokedex();
         pokedex.sortByName();
         pokedex.printPokemon();
+        System.out.println(FFdsfdsa);
 
     }
 }
